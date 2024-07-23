@@ -1,0 +1,7 @@
+SECRET_KEY=django-insecure-68@s8j+x7!@##hcoqp0&x+d#k1)e11vhg@=7*2*cx6&h^es1+8
+
+NAME=Homework24
+USER=postgres
+PASSWORD=Kkn_250600
+HOST=localhost
+PORT=1024
